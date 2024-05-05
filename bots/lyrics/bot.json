@@ -1,0 +1,8 @@
+{
+    "name": "Lyrics Bot",
+    "version": "1.0.0",
+    "entryPoint": "index.js",
+    "description": "A bot that fetches lyrics of a song in random times",
+    "author": "@MDC_DEV",
+    "disabled": false
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Is Even? Bot",
+    "version": "1.0.0",
+    "entryPoint": "index.js",
+    "description": "A bot that checks if a number is even or odd",
+    "author": "@gallenizdev",
+    "disabled": false
+}

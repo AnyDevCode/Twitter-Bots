@@ -1,0 +1,8 @@
+{
+    "name": "The Any Bot",
+    "version": "1.0.0",
+    "entryPoint": "index.js",
+    "description": "A bot for testing purposes",
+    "author": "@MDC_DEV",
+    "disabled": false
+}
