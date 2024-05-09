@@ -6,8 +6,8 @@ const { publishALyricQuote } = require('./utils/utils');
 
 const rettiwt = new Rettiwt({ apiKey: process.env.TWITTER_LYRICS_BOT_TOKEN });
 
-// Every 15 minutes
-cron.schedule('*/15 * * * *', async () => {
+// Every 30 minutes
+cron.schedule('*/30 * * * *', async () => {
   try {
     console.log('Publishing a new lyric quote');
     // Wait 15 to 60 seconds
